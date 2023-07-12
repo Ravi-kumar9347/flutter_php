@@ -1,0 +1,6 @@
+id,name,price,description,category,in_stock
+1,Product A,10.99,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",Electronics,true
+2,Product B,24.99,"Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",Home & Kitchen,false
+3,Product C,5.50,"Sed semper nisl lectus, eu semper dolor tempus ac.",Fashion,true
+4,Product D,15.75,"Vestibulum ac diam sit amet quam vehicula elementum.",Electronics,false
+5,Product E,8.99,"Praesent nec leo nec dui sagittis lobortis a sed nunc.",Sports & Outdoors,true
